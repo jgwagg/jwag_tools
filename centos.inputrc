@@ -1,3 +1,4 @@
 "\e/": dabbrev-expand
 "\ep": history-search-backward
+"\en": history-search-forward
 
